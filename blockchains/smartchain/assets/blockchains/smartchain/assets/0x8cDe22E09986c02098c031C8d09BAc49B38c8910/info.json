@@ -1,1 +1,12 @@
+{
+  "name": "DAAT Network",
+  "symbol": "DAAT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "DAAT Network is a next-generation decentralized asset automation token.",
+  "website": "https://daatnetwork.com",
+  "explorer": "https://bscscan.com/token/0x8cDe22E09986c02098c031C8d09BAc49B38c8910",
+  "status": "active",
+  "id": "0x8cDe22E09986c02098c031C8d09BAc49B38c8910"
+}
 
